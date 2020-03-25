@@ -1,0 +1,12 @@
+{
+	"name": "discord-acstats",
+	"version": "1.0.0",
+	"description": "Discord bot for acstats",
+	"main": "bot.js",
+	"author": "Guido van Vilsteren",
+	"dependencies": {
+		"discord.js": "^12.0.2",
+		"node-fetch": "^2.6.0",
+		"xhr": "^2.5.0"
+	}
+}
